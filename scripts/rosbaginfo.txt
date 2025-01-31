@@ -1,0 +1,85 @@
+path:        2024-10-17-13-21-32_4MB_10Hz.bag
+version:     2.0
+duration:    55:44s (3344s)
+start:       Oct 17 2024 11:21:32.75 (1729164092.75)
+end:         Oct 17 2024 12:17:17.53 (1729167437.53)
+size:        14.0 GB
+messages:    18031
+compression: none [3584/3584 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher   3588 msgs    : radar_publisher/radarData
+             /rosout            7222 msgs    : rosgraph_msgs/Log         (2 connections)
+             /rosout_agg        7221 msgs    : rosgraph_msgs/Log
+
+path:        2024-10-17-13-21-32_4MB_10Hz_filtered.bag
+version:     2.0
+duration:    6:14s (374s)
+start:       Oct 17 2024 11:37:56.70 (1729165076.70)
+end:         Oct 17 2024 11:44:10.90 (1729165450.90)
+size:        2.0 GB
+messages:    2555
+compression: none [513/513 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher    512 msgs    : radar_publisher/radarData
+             /rosout            1022 msgs    : rosgraph_msgs/Log        
+             /rosout_agg        1021 msgs    : rosgraph_msgs/Log
+
+path:        2024-10-02-18-13-06.bag
+version:     2.0
+duration:    53:30s (3210s)
+start:       Oct 02 2024 16:13:14.30 (1727885594.30)
+end:         Oct 02 2024 17:06:44.39 (1727888804.39)
+size:        12.0 GB
+messages:    61514
+compression: none [12282/12282 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher   12286 msgs    : radar_publisher/radarData
+             /rosout            24614 msgs    : rosgraph_msgs/Log         (2 connections)
+             /rosout_agg        24614 msgs    : rosgraph_msgs/Log
+
+path:        2024-10-02-18-13-06_filtered.bag
+version:     2.0
+duration:    5:25s (325s)
+start:       Oct 02 2024 16:35:24.72 (1727886924.72)
+end:         Oct 02 2024 16:40:50.38 (1727887250.38)
+size:        2.0 GB
+messages:    10240
+compression: none [2048/2048 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher   2047 msgs    : radar_publisher/radarData
+             /rosout            4097 msgs    : rosgraph_msgs/Log        
+             /rosout_agg        4096 msgs    : rosgraph_msgs/Log
+
+path:        2024-10-17-16-32-11_1MB_100Hz.bag
+version:     2.0
+duration:    17:44s (1064s)
+start:       Oct 17 2024 14:32:11.41 (1729175531.41)
+end:         Oct 17 2024 14:49:55.88 (1729176595.88)
+size:        4.0 GB
+messages:    20489
+compression: none [4094/4094 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher   4094 msgs    : radar_publisher/radarData
+             /rosout            8198 msgs    : rosgraph_msgs/Log         (2 connections)
+             /rosout_agg        8197 msgs    : rosgraph_msgs/Log
+
+path:        2024-10-17-16-32-11_1MB_100Hz_filtered.bag
+version:     2.0
+duration:    5:30s (330s)
+start:       Oct 17 2024 14:44:00.13 (1729176240.13)
+end:         Oct 17 2024 14:49:30.69 (1729176570.69)
+size:        2.0 GB
+messages:    10238
+compression: none [2048/2048 chunks]
+types:       radar_publisher/radarData [4aaddaaf5ee1d7b2e7c972611ff7e2bc]
+             rosgraph_msgs/Log         [acffd30cd6b6de30f120938c17c593fb]
+topics:      /radar_publisher   2047 msgs    : radar_publisher/radarData
+             /rosout            4096 msgs    : rosgraph_msgs/Log        
+             /rosout_agg        4095 msgs    : rosgraph_msgs/Log
+
+
